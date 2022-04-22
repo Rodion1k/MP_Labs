@@ -1,0 +1,5 @@
+﻿D:\ProgrammingSoftware\Microsoft Visual Studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Sochetaniya.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Combi.cpp
+  Sochetaniya.cpp
+  Создание кода...
+  Sochetaniya.vcxproj -> D:\учеба\Матпрога\Labs\MP_Labs_4sem\MP_Lab2\x64\Debug\2. Sochetaniya (C).exe

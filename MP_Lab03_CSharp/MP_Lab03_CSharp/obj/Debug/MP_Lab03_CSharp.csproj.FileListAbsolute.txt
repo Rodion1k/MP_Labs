@@ -1,0 +1,7 @@
+D:\учеба\Матпрога\Labs\MP_Lab03_CSharp\MP_Lab03_CSharp\bin\Debug\MP_Lab03_CSharp.exe
+D:\учеба\Матпрога\Labs\MP_Lab03_CSharp\MP_Lab03_CSharp\bin\Debug\MP_Lab03_CSharp.pdb
+D:\учеба\Матпрога\Labs\MP_Lab03_CSharp\MP_Lab03_CSharp\obj\Debug\MP_Lab03_CSharp.csproj.AssemblyReference.cache
+D:\учеба\Матпрога\Labs\MP_Lab03_CSharp\MP_Lab03_CSharp\obj\Debug\MP_Lab03_CSharp.csproj.SuggestedBindingRedirects.cache
+D:\учеба\Матпрога\Labs\MP_Lab03_CSharp\MP_Lab03_CSharp\obj\Debug\MP_Lab03_CSharp.csproj.CoreCompileInputs.cache
+D:\учеба\Матпрога\Labs\MP_Lab03_CSharp\MP_Lab03_CSharp\obj\Debug\MP_Lab03_CSharp.exe
+D:\учеба\Матпрога\Labs\MP_Lab03_CSharp\MP_Lab03_CSharp\obj\Debug\MP_Lab03_CSharp.pdb

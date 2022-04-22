@@ -1,0 +1,12 @@
+﻿  LP_Lab03.cpp
+  Salesman.cpp
+D:\учеба\Матпрога\Labs\LP_Lab03\LP_Lab03\Salesman.cpp(46,5): error C2653: combi3: не является именем класса или пространства имен
+D:\учеба\Матпрога\Labs\LP_Lab03\LP_Lab03\Salesman.cpp(46,13): error C2065: permutation: необъявленный идентификатор
+D:\учеба\Матпрога\Labs\LP_Lab03\LP_Lab03\Salesman.cpp(46,25): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "p"
+D:\учеба\Матпрога\Labs\LP_Lab03\LP_Lab03\Salesman.cpp(46,25): error C3861: p: идентификатор не найден
+D:\учеба\Матпрога\Labs\LP_Lab03\LP_Lab03\Salesman.cpp(47,13): error C2065: p: необъявленный идентификатор
+D:\учеба\Матпрога\Labs\LP_Lab03\LP_Lab03\Salesman.cpp(50,23): error C2065: p: необъявленный идентификатор
+D:\учеба\Матпрога\Labs\LP_Lab03\LP_Lab03\Salesman.cpp(50,29): error C2660: indx: функция не принимает 3 аргументов
+D:\учеба\Матпрога\Labs\LP_Lab03\LP_Lab03\Salesman.cpp(34,6): message : см. объявление "indx"
+D:\учеба\Матпрога\Labs\LP_Lab03\LP_Lab03\Salesman.cpp(52,13): error C2065: p: необъявленный идентификатор
+  Создание кода...
